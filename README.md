@@ -3,6 +3,7 @@
 ***說明：
 在完成第 1 堂雲端服務課程後，將您了解的知識與主觀想法來描述雲端運算與其產業的趨勢發展。
 內容不少於 250 字，並上傳 GitHub 然後將GitHub 鏈接貼在表單上傳作業。***
+[HW1](https://github.com/leecyan144/Fintech/edit/main/README.md)
 <br><br/>
 
 ## 作業 2: Build a Website using Amazon EC2 with LAMP (3/29)
