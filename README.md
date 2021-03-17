@@ -12,6 +12,7 @@
 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬
 機完成安裝 LAMP 解決方案包，並成功啟動網頁
 伺服器與資料庫伺服器的功能。/別忘了過程中說明與解釋您的操作步驟。***
+[HW2](https://github.com/leecyan144/Fintech/tree/main/HW2)
 <br><br/>
 
 ## 作業 3: Build a Website using Amazon S3(Versioning)and AWS Amplify (4/12) 
