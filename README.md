@@ -45,7 +45,7 @@ Amplify 服務進行網頁部署，過程中演示版本控制
 [HW5](https://github.com/leecyan144/Fintech/blob/main/HW5/README.md)
 <br><br/>
 
-## 作業 6: Create a Docker Container or Build your own Project Services (upgrade...)
+## 作業 6: Create a Docker Container or Build your own Project Services (5/17)
 
 ***說明：
 在完成第 6 堂雲端服務課程後，透過 Docker 建立
